@@ -20,6 +20,14 @@
         </encodingDesc>
     </meiHead>
     <music>
+      <performance>
+        <recording begin="00:00:00.00" end="00:02:25.00" betype="time">
+          <avFile mimeType="audio/mpeg-3"
+            target= "http://myfiles.com/coolRecording.mp3"></avFile>
+          <avFile mimetype="audio/wav"
+            taregt="http://myfiles.com/coolRecording.wav"></avFile>
+        </recording>
+      </performance>
         <body>
             <mdiv xml:id="mdiv-0000001787774765">
                 <score xml:id="score-0000001530949969">

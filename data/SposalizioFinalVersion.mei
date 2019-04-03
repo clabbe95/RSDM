@@ -5,9 +5,45 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title>Nocturne No. 1</title>
+                <title>Sposalizio</title>
+                <title type="subtitle">
+                  <identifier>Annees de Pelerinage Deuxieme Annee Italie</identifier>
+                </title>
+                <composer authURI="http://dbpedia.org/page/Franz_Liszt"
+                          authority="DBPedia">Franz Liszt</composer>
+                <editor>Caleb Labbe Phelan</editor>
+                <respStmt>
+                  <resp>Encoded by</resp>
+                  <persName>Caleb Labbe Phelan</persName>
+                </respStmt>
             </titleStmt>
-            <pubStmt></pubStmt>
+            <editionStmt>
+              <title>Sposalizio</title>
+              <editor authURI="http://dbpedia.org/page/Franz_Liszt"
+                        authority="DBPedia">Franz Liszt</editor>
+              <date>1858</date>
+              <pubPlace authURI="http://www.geonames.org/2874225/mainz.html"
+                        authority="GeoNames">Mainz</pubPlace>
+              <respStmt>
+                <resp>Published by</resp>
+                <corpName role="pbl">Franz Schott</corpName>
+              <respStmt>
+            </editionStmt>
+            <pubStmt>
+              <publisher>
+                <corpName authURI="http://dbpedia.org/resourse/University_of_Glasgow"
+                          authority="DBPedia">University of Glasgow</corpName>
+              </publisher>
+              <address>
+                <addrLine>
+                  <geogName authURI="http://wwww.geonames.org/2648579/glasgow.html"
+                           authority="GeoNames">Glasgow</geogName>
+                </addrLine>
+                <addrLine>
+                  <geogName>United Kingdom</goegName>
+                </addrLine>
+              </address>          
+            </pubStmt>
         </fileDesc>
         <encodingDesc xml:id="encodingdesc-0000000186172721">
             <appInfo xml:id="appinfo-0000000474482537">
