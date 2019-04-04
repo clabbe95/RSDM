@@ -9,8 +9,8 @@
                 <title type="subtitle">
                   <identifier>Annees de Pelerinage Deuxieme Annee Italie</identifier>
                 </title>
-                <composer authURI="http://dbpedia.org/page/Franz_Liszt"
-                          authority="DBPedia">Franz Liszt</composer>
+                <composer auth.uri="http://dbpedia.org/page/Franz_Liszt"
+                          auth="DBPedia">Franz Liszt</composer>
                 <editor>Caleb Labbe Phelan</editor>
                 <respStmt>
                   <resp>Encoded by</resp>
@@ -19,11 +19,11 @@
             </titleStmt>
             <editionStmt>
               <title>Sposalizio</title>
-              <editor authURI="http://dbpedia.org/page/Franz_Liszt"
-                        authority="DBPedia">Franz Liszt</editor>
+              <editor auth.uri="http://dbpedia.org/page/Franz_Liszt"
+                        auth="DBPedia">Franz Liszt</editor>
               <date>1858</date>
-              <pubPlace authURI="http://www.geonames.org/2874225/mainz.html"
-                        authority="GeoNames">Mainz</pubPlace>
+              <pubPlace auth.uri="http://www.geonames.org/2874225/mainz.html"
+                        auth="GeoNames">Mainz</pubPlace>
               <respStmt>
                 <resp>Published by</resp>
                 <corpName role="pbl">Franz Schott</corpName>
@@ -31,18 +31,18 @@
             </editionStmt>
             <pubStmt>
               <publisher>
-                <corpName authURI="http://dbpedia.org/resourse/University_of_Glasgow"
-                          authority="DBPedia">University of Glasgow</corpName>
+                <corpName auth.uri="http://dbpedia.org/resourse/University_of_Glasgow"
+                          auth="DBPedia">University of Glasgow</corpName>
               </publisher>
               <address>
                 <addrLine>
-                  <geogName authURI="http://wwww.geonames.org/2648579/glasgow.html"
-                           authority="GeoNames">Glasgow</geogName>
+                  <geogName auth.uri="http://wwww.geonames.org/2648579/glasgow.html"
+                           auth="GeoNames">Glasgow</geogName>
                 </addrLine>
                 <addrLine>
                   <geogName>United Kingdom</goegName>
                 </addrLine>
-              </address>          
+              </address>
             </pubStmt>
         </fileDesc>
         <encodingDesc xml:id="encodingdesc-0000000186172721">
@@ -93,6 +93,10 @@
                             <dynam xml:id="dynam-0000000559155895" place="below" staff="2" startid="#note-0000001323661015">p</dynam>
                             <slur xml:id="slur-0000001153975208" startid="#note-0000001323661015" endid="#note-0000001771984568" curvedir="above" />
                             <tie xml:id="tie-0000000722868957" startid="#note-0000000451334111" endid="#note-0000001368165648" />
+                            <annot>
+                              <p>These first two measures outline theme no. 1, which corresponds to the aural, background dimension of the painting
+                                perhaps imitating the church bells</p>
+                            </annot>
                         </measure>
                         <measure xml:id="measure-0000000934015471" n="2">
                             <staff xml:id="staff-0000000481913023" n="1">
