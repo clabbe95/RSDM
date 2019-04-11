@@ -29,7 +29,21 @@
                 <corpName role="pbl">Franz Schott</corpName>
               </respStmt>
             </editionStmt>
-            <pubStmt></pubStmt>
+            <pubStmt>
+              <publisher>
+                <corpName auth.uri="http://dbpedia.org/resourse/University_of_Glasgow"
+                          auth="DBPedia">University of Glasgow</corpName>
+              </publisher>
+              <address>
+                <addrLine>
+                  <geogName auth.uri="http://wwww.geonames.org/2648579/glasgow.html"
+                           auth="GeoNames">Glasgow</geogName>
+                </addrLine>
+                <addrLine>
+                  <geogName>United Kingdom</geogName>
+                </addrLine>
+              </address>
+            </pubStmt>
         </fileDesc>
         <encodingDesc xml:id="encodingdesc-0000000520053810">
             <appInfo xml:id="appinfo-0000000181205946">
