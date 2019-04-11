@@ -5,8 +5,16 @@
     <meiHead>
         <fileDesc>
             <titleStmt>
-                <title>Sposalizio</title>
-                <composer>Franz Liszt</composer>
+              <title>Sposalizio</title>
+              <title type="subtitle">
+                <identifier>Annees de Pelerinage Deuxieme Annee Italie</identifier>
+              </title>
+              <composer auth.uri="http://dbpedia.org/page/Franz_Liszt"
+                        auth="DBPedia">Franz Liszt</composer>
+              <editor>Caleb Labbe Phelan</editor>
+              <respStmt>
+                <resp>Encoded by</resp>
+                <persName>Caleb Labbe Phelan</persName>
             </titleStmt>
             <pubStmt></pubStmt>
         </fileDesc>
