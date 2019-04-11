@@ -6,7 +6,11 @@
         <fileDesc>
             <titleStmt>
                 <title>Sposalizio</title>
-                <composer>Franz Liszt</composer>
+                <title type="subtitle">
+                  <identifier>Annees de Pelerinage Deuxieme Annee Italie</identifier>
+                </title>
+                <composer auth.uri="http://dbpedia.org/page/Franz_Liszt"
+                          auth="DBPedia">Franz Liszt</composer>
             </titleStmt>
             <pubStmt></pubStmt>
         </fileDesc>
