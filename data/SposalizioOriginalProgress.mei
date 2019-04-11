@@ -11,6 +11,11 @@
                 </title>
                 <composer auth.uri="http://dbpedia.org/page/Franz_Liszt"
                           auth="DBPedia">Franz Liszt</composer>
+                <editor>Caleb Labbe Phelan</editor>
+                <respStmt>
+                  <resp>Encoded by</resp>
+                    <persName>Caleb Labbe Phelan</persName>
+                </respStmt>
             </titleStmt>
             <pubStmt></pubStmt>
         </fileDesc>
