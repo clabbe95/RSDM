@@ -94,7 +94,7 @@
                             <slur xml:id="slur-0000000024816097" startid="#note-0000000389311939" endid="#note-0000001715462683" curvedir="above" />
                             <tie xml:id="tie-0000000408871140" startid="#note-0000001868336156" endid="#note-0000000770871653" />
                           <annot>
-                            <p>This opening motive, Theme 1, is represents the background plane of Raphael's painting. The motive is evocative of church bells in the distance</p>
+                            <p>This opening motive, Theme 1, represents the background plane of Raphael's painting. The motive is evocative of church bells in the distance</p>
                           </annot>
                         </measure>
                         <measure xml:id="measure-0000000672782544" n="2">
@@ -3782,6 +3782,9 @@
                                 <rend xml:id="rend-0000001683158679" fontstyle="italic">dolce armonioso</rend>
                             </dir>
                             <slur xml:id="slur-0000001345571345" startid="#note-0000000081478327" endid="#note-0000000065896670" curvedir="below" />
+                          <annot>
+                            <p>Here, Themes 1 and 2 meet. This synthesis of background and foreground is evocative of Raphael's masterful composition and unity of perspective on the canvas</p>
+                          </annot>
                         </measure>
                         <measure xml:id="measure-0000000914624129" n="78">
                             <staff xml:id="staff-0000001173212178" n="1">
@@ -4610,6 +4613,9 @@
                             <pedal xml:id="pedal-0000001589916842" staff="2" startid="#chord-0000001850884160" dir="down" place="below" />
                             <pedal xml:id="pedal-0000001394004156" staff="2" startid="#rest-0000001184217995" dir="up" place="below" />
                             <slur xml:id="slur-0000000574650297" startid="#chord-0000001205434111" endid="#chord-0000000912323837" curvedir="below" />
+                          <annot>
+                            <p>Here the synthesis of perspectives is reiterated one final time in a thickened, resonant, texture, evocative of Mary and Joseph's joyous unity in Raphael's painting</p>
+                          </annot>
                         </measure>
                         <sb xml:id="sb-0000001698824150" />
                         <measure xml:id="measure-0000001936061989" n="93">
