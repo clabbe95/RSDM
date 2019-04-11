@@ -17,6 +17,18 @@
                     <persName>Caleb Labbe Phelan</persName>
                 </respStmt>
             </titleStmt>
+            <editionStmt>
+              <title>Sposalizio</title>
+              <editor auth.uri="http://dbpedia.org/page/Franz_Liszt"
+                        auth="DBPedia">Franz Liszt</editor>
+              <date>1858</date>
+              <pubPlace auth.uri="http://www.geonames.org/2874225/mainz.html"
+                        auth="GeoNames">Mainz</pubPlace>
+              <respStmt>
+                <resp>Published by</resp>
+                <corpName role="pbl">Franz Schott</corpName>
+              </respStmt>
+            </editionStmt>
             <pubStmt></pubStmt>
         </fileDesc>
         <encodingDesc xml:id="encodingdesc-0000000520053810">
